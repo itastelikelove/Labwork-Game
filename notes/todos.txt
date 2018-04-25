@@ -1,0 +1,6 @@
+intro screen
+
+Release!
+
+framing and camera
+resize sprites
